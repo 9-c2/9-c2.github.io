@@ -98,7 +98,7 @@ function floorMenu() { // TODO img
 function staircaseMenu() { // TODO img
     app.renderer.background.color="#709642"
     setMenu({
-        title: "Most private staircase, small number of people so less unwanted distruptions (but still near everyone else e.g. staircase 6)",
+        title: "Most private staircase, small number of people so fewer unwanted distruptions (but still near everyone else e.g. staircase 6)",
         tfill: "#f7ff1b",
         buttons: [
             { label: "back", onClick: () => whyMenu() , fill: "#7b8138"}
